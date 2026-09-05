@@ -1,18 +1,16 @@
-⸻
-
+---
 title: Whipped Feta
 categories:
-* Dips & Spreads
-* Appetizers
-    tags:
-* feta
-* greek-yogurt
-* dip
-* quick
-* mediterranean-inspired
-    source: Chanelle
-
-⸻
+- Dips & Spreads
+- Appetizers
+tags:
+- feta
+- greek-yogurt
+- dip
+- quick
+- mediterranean-inspired
+source: Chanelle
+---
 
 Whipped Feta
 
